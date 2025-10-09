@@ -1,4 +1,4 @@
 rootProject.name = 'KTB-devon-full'
 include 'week1'
 include 'week2'
-include 'community'
+include 'week4'
